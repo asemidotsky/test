@@ -19,7 +19,7 @@ Languages, technologies, practices and other things related to software developm
 
 ## Technologies, Frameworks
 
-* [NodeJS](/docs/frameworks/NodeJS)
+* [NodeJS](docs/frameworks/NodeJS)
 * AngularJS (1.x)
 * Angular 2
 * WPF
