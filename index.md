@@ -1,9 +1,3 @@
-# Development wiki - TEST
-
-**Knowledge is Power.**
-
-Languages, technologies, practices and other things related to software development.
-
 ## Acrhitecture and Design
 
 * Microservices
