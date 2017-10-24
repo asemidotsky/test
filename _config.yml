@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal
 title: "Test development wiki"
 description: "Languages, technologies, practices and other things related to software development."
 show_downloads: false
