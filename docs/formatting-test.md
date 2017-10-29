@@ -1,4 +1,5 @@
-## Logical, Conditional, and Null Operators
+## Table with 3 columns
+
 Category|Expression|Description
 --------|----------|-----------
 Logical AND | x & y |	Integer bitwise AND, Boolean logical AND
