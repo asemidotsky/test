@@ -18,19 +18,19 @@
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
     </header>
 
-    <div class="wrapper">
+    <div class="wrapper main-content">
       <nav>
         <ul></ul>
       </nav>
-      <section class="main-content">
+      <section>
         {{ content }}
 
-        <footer class="site-footer">
-          {% if site.github.is_project_page %}
-            <span class="site-footer-owner">Wiki is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-          {% endif %}
-        </footer>
       </section>
+      <footer class="site-footer">
+        {% if site.github.is_project_page %}
+          <span class="site-footer-owner">Wiki is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
+        {% endif %}
+       </footer>
     </div>
 
     {% if site.google_analytics %}
